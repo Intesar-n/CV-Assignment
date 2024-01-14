@@ -14,9 +14,16 @@ This project leverages advanced computer vision techniques to detect human faces
 
 ## Prerequisites
 
-- Python 3.9
-- OpenCV: `pip install opencv-python`
-- TensorFlow or PyTorch: Install the appropriate deep learning framework based on the chosen model.
+- python>=3.6
+- tensorflow>=2.0
+- keras>=2.3.0
+- numpy
+- pandas
+- opencv-python
+- matplotlib
+- scikit-learn
+- jupyter
+
 
 ## Components
 
