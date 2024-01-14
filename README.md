@@ -1,4 +1,4 @@
-`# Face Detection and Mask Classification Project
+# Face Detection and Mask Classification Project
 
 ## Project Overview
 This project leverages advanced computer vision techniques to detect human faces in images and classify them based on mask presence. It incorporates image preprocessing, face detection, dataset preparation, and the development of Convolutional Neural Network (CNN) models for mask classification, followed by comprehensive model training and evaluation.
