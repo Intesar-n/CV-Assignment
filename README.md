@@ -14,8 +14,6 @@ This project leverages advanced computer vision techniques to detect human faces
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-Details on installation and setup, including libraries and dependencies.
 
 
 ## Prerequisites
