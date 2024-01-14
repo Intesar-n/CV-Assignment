@@ -11,8 +11,7 @@ This project leverages advanced computer vision techniques to detect human faces
 - [CNN Models](#cnn-models)
 - [Results and Discussion](#results-and-discussion)
 - [Conclusion](#conclusion)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 
 
