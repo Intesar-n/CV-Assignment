@@ -38,7 +38,6 @@ This project leverages advanced computer vision techniques to detect human faces
 
 ## CNN Models
 
-### Model Development
 ## Model Architecture
 
 ### Initial Layers:
